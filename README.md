@@ -8,6 +8,9 @@ There are two versions, one shows the date one doesn't, pretty easy
   - Easy to use and good for learning
   - Coded years ago so it works on most broswers, will display a static clock in dinosaur broswers
 
+[Demo with date](https://jordyvalentine.github.io/localclockdemo/demo.html)
+[Demo without date](https://jordyvalentine.github.io/localclockdemo/demo_nodate.html)
+
 ## Why?
 I found this in some old backups, not sure when I wrote it but it would have been years ago. I was probably following a tutorial or something.
 I went through and commented the code with some information about configuring the script, but the code could use some clean up/modernising
