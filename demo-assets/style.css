@@ -1,0 +1,55 @@
+/* localclock.js demo - JordyValentine.com - Have fun, do whatever you want with it, but if you found it useful a thanks would be appreciated :) */
+@import url("reset.css");
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #454545;
+    font-size: 15px;
+    color:#333
+}
+
+.title {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 1000px;
+  padding: 20px;
+  overflow: hidden;
+  border: none;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  font: normal 18px/1 Verdana, Geneva, sans-serif;
+  color: rgba(255,255,255,1);
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: rgba(51,51,51,1);
+  -webkit-box-shadow: 1px 1px 2px 2px rgba(0,0,0,0.53) ;
+  box-shadow: 1px 1px 2px 2px rgba(0,0,0,0.53) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+}
+
+p {
+    padding: 10px;
+}
+
+.footer {
+  font: normal normal bold 15px/1 Verdana, Geneva, sans-serif;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#contentwrap {
+    width: 1000;
+    float: left;
+    margin: 0 auto;
+}
+
+#content {
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #ebebeb;
+    margin: 5px;
+}
