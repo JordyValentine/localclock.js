@@ -29,6 +29,5 @@ That's pretty much it, the JS has some styling built in, but you can easily remo
 
 ## License
 **Have fun, do whatever you want with it, but if you found it useful a thanks would be appreciated :)**
+
 [![Say Thanks!](https://img.shields.io/badge/SAY-THANKS-ff69b4.svg)](https://saythanks.io/to/JordyValentine)
-
-
